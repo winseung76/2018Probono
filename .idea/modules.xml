@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Probono.iml" filepath="$PROJECT_DIR$/Probono.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QPerformance/Probono.QPerformance.iml" filepath="$PROJECT_DIR$/.idea/modules/QPerformance/Probono.QPerformance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Probono.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Probono.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bottom-bar-2.3.1/Probono.bottom-bar-2.3.1.iml" filepath="$PROJECT_DIR$/.idea/modules/bottom-bar-2.3.1/Probono.bottom-bar-2.3.1.iml" />
+    </modules>
+  </component>
+</project>

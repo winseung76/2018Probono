@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <tabs>
+        <tab
+            id="@+id/tab_alarm"
+            title="main"
+            icon="@drawable/main_icon"
+            activeColor="#ffbb00"/>
+        <tab
+            id="@+id/tab_evacuation"
+            title="place"
+            icon="@drawable/place_icon4"
+            activeColor="#ffbb00"/>
+        <tab
+            id="@+id/tab_list"
+            title="phone"
+            icon="@drawable/phone_icon"
+            activeColor="#ffbb00"/>
+    </tabs>
+</PreferenceScreen>
